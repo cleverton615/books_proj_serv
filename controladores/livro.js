@@ -1,4 +1,3 @@
-const { post } = require("../rotas/livro");
 const {
   getTodosLivros,
   getLivroPorId,
